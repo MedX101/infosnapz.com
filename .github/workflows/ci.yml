@@ -6,7 +6,6 @@ on:
       - main
   pull_request:
 
-
 env:
   CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
   VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
