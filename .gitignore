@@ -16,7 +16,7 @@
 
 # production
 /build
-
+.medx
 # misc
 .DS_Store
 *.pem
